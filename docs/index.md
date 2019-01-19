@@ -71,6 +71,7 @@ you may read [this guide](https://realpython.com/installing-python/) for how to 
 - [scraping tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
 - [Python Mega Course](https://github.com/arditsulceteaching/thepythonmegacourse)
 - [Build a Reddit bot](https://www.pythonforengineers.com/build-a-reddit-bot-part-1/)
+- [Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot)
 
 ## Misc <a name="misc"/>
 * [arcade.academy](http://arcade.academy/)
