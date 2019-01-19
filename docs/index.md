@@ -10,6 +10,9 @@ No shame in creating a bot to automate your task and cut time for another task y
 you may read [this guide](https://realpython.com/installing-python/) for how to install python on your operative system of choice.
 
 ## Table of Contents
+
+- [Subreddits](#subreddits)
+
 - [Bots](#bots)
   * [Reddit Bots](#redditbots)
   * [Instagram Bots](#igbots)
@@ -22,6 +25,18 @@ you may read [this guide](https://realpython.com/installing-python/) for how to 
   * [Tutorials](#tutorials)
   * [Misc](#misc)
   * [API'S](#api)
+
+## SUBREDDITS <a name="subreddits"/>
+
+If you are not
+familiar with any programming language or need a simple bot and don’t have the
+time to code it yourself you can always browse these subreddits which might be
+much of help.
+
+- [r/RequestABot](https://www.reddit.com/r/RequestABot/)
+- [r/redditdev](https://www.reddit.com/r/redditdev/)
+- [r/learnpython](https://www.reddit.com/r/learnpython/)
+- [r/learnpython Wiki](https://www.reddit.com/r/learnpython/wiki/index)
 
 ## BOTS <a name="bots"/>
 
@@ -71,7 +86,8 @@ you may read [this guide](https://realpython.com/installing-python/) for how to 
 - [scraping tutorial](https://github.com/MorvanZhou/easy-scraping-tutorial)
 - [Python Mega Course](https://github.com/arditsulceteaching/thepythonmegacourse)
 - [Build a Reddit bot](https://www.pythonforengineers.com/build-a-reddit-bot-part-1/)
-- [Telegram Bot](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot)
+- [Extensions – Your first Bot](https://github.com/python-telegram-bot/python-telegram-bot/wiki/Extensions-%E2%80%93-Your-first-Bot)
+- [Building a simple Telegram bot using PythonAnywhere](https://blog.pythonanywhere.com/148/)
 
 ## Misc <a name="misc"/>
 * [arcade.academy](http://arcade.academy/)
